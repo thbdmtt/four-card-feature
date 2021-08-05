@@ -24,7 +24,7 @@ span {
 
 main {
   margin: auto auto;
-  width: 1110px;
+  max-width: 1110px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
