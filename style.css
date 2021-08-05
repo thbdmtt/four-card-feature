@@ -24,7 +24,7 @@ span {
 
 main {
   margin: auto auto;
-  max-width: 1110px;
+  width: 1110px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -32,8 +32,8 @@ main {
 article {
   margin: 15px;
   padding: 32px;
-  width: 350px; /* 382px */
-  height: 250px; /*282px */
+  width: 350px;
+  height: 250px;
   background-color: #fff;
   box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
