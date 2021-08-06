@@ -59,6 +59,7 @@ p {
 }
 article p {
   font-weight: 400;
+  font-size: 13px;
 }
 article img {
   position: absolute;
